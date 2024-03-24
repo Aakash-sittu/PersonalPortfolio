@@ -1,14 +1,13 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Android Developer Virtual ",
+            "subtitle": "Google LLC",
+            "workType": "Virtual Intern",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Android App development"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "01/2024 – 03/2024"
         },
         {
             "title": "Software Engineer",
