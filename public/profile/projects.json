@@ -21,17 +21,17 @@
             ]
         },
         {
-            "image": "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image": "images/projects/Screenshot 2024-03-24 at 10.37.49 PM.png",
+            "title": "Quantum VQE",
+            "bodyText": "- VQE is a quantum algorithm used to find the lowest **energy state** (eigenvalue) of a given Hamiltonian. \n - Visualisation of **Energy state's**.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/Aakash-sittu/teamheisenberg_quantathon"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "/"
                 }
             ],
             "tags": [
@@ -39,9 +39,9 @@
                 "Django",
                 "BootStrap",
                 "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Vercel",
+                "Qiskit",
+                "SRM"
             ]
         },
         {
